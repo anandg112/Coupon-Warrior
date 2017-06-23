@@ -1,4 +1,4 @@
-# Node Skeleton
+# Coupon Warrior
 
 ## Project Setup
 
